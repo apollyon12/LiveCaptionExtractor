@@ -1,0 +1,6 @@
+org\rh\utils\ClipboardUtil.class
+org\rh\utils\OCRProcessor.class
+org\rh\utils\HotkeyManager.class
+org\rh\utils\LiveCaptionDetector.class
+org\rh\Main.class
+org\rh\utils\CacheManager.class
